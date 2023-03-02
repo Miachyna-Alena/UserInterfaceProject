@@ -1,0 +1,15 @@
+{
+  "EMAIL_LENGTH": 9,
+  "DOMAIN_LENGTH": 7,
+  "PASSWORD_LENGTH": 11,
+  "DOMAIN_ITEM_NUMBER": 2,
+  "INTERESTS_NUMBER": 3,
+
+  "CARD1": "1 / 4",
+  "CARD2": "2 / 4",
+  "CARD3": "3 / 4",
+
+  "AVATAR_FILE": "src/test/resources/data/avatar.png",
+
+  "TIMER_START_TIME": "00:00:00"
+}

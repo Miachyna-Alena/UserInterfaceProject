@@ -1,0 +1,4 @@
+{
+  "URL": "https://userinyerface.com/",
+  "PATTERN": "(?=.*[0-9])(?=.*[A-Z])(?=\\S+$).{10,}"
+}
